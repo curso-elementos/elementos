@@ -38,7 +38,7 @@ public class MiUI extends UI{
         
         //Agregamos un evento de botón
         boton1.addClickListener(hola->{
-            Notification.show("Hola mundo!!", Notification.Type.ERROR_MESSAGE);
+            Notification.show("Hola mundo soy Juan Carlos campos!!", Notification.Type.ERROR_MESSAGE);
         });
         
         //Agregamos componentes al layout principal
